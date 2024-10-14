@@ -1,5 +1,7 @@
 Hi, I’m Manish Rao 👋
+
 About Me
+
 🚀 Software Engineer in the Making: Passionate about building scalable systems, solving complex problems with AI, and driving innovation in the tech space.
 
 🌱 Currently Diving Deep Into: Generative AI, Large Language Models (LLMs), Data Engineering, and Machine Learning deployment. Focused on mastering advanced topics in Data Orchestration and cloud architecture.
