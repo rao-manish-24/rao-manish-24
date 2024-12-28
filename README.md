@@ -15,6 +15,17 @@ About Me
 😄 Pronouns: He/Him
 
 ⚡ Fun Fact: Besides coding, I enjoy experimenting with AI-driven gaming strategies and solving complex puzzles—constantly exploring how AI can reshape the future of entertainment.
+
+Subjects with Interests during Graduate Degree @ Boston :
+
+CSYE6200 - Object Oriented Design In Java. 
+INFO6105 - Data Science Engineering Methods and Tools 
+INFO7255 - Advanced Big Data Indexing & Tools 
+INFO6205 - Program Structures & Algorithms.
+CSYE6225 - Network Structures and Cloud Computing.
+CSYE7380 - Theory & Practical Application in Generative AI Modelling
+DAMG7374 - ST: Gen AI with Appl in Data Engineering 
+CSYE7374 - Design Patterns in Java
 <!---
 rao-manish-24/rao-manish-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
