@@ -72,7 +72,7 @@ Software Engineer specializing in enterprise-scale systems architecture, AI solu
 📫 **Professional Contact:**
 - Email: rao.mani@northeastern.edu
 - LinkedIn: [raomanish9538](https://www.linkedin.com/in/raomanish9538/)
-- GitHub: [ManishRao](https://github.com/ManishRao)
+- GitHub: [ManishRao](https://github.com/rao-manish-24)
 
 😄 **Pronouns:** He/Him
 
