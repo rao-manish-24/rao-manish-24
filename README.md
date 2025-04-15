@@ -1,5 +1,5 @@
 # Hi, I'm Manish Rao 👋
-
+Determined Backend & Devops Engineer, MS in Software Engineering, BE in Computer Science. 
 Software Engineer specializing in enterprise-scale systems architecture, AI solution implementation, and cloud-native application development with a track record of delivering high-impact technical solutions.
 
 ## Professional Focus
@@ -24,7 +24,7 @@ Software Engineer specializing in enterprise-scale systems architecture, AI solu
 
 ## Professional Experience
 
-**EX-ACCENTURE, Software Engineering Analyst, Associate Software Engineer (01/2021 - 07/2023)**
+**EX-ACCENTURE, Software Engineering Developer 2, Associate Software Engineer (01/2021 - 07/2023)**
 - Led the development of a mission-critical payment processing system utilizing Java Spring Boot, reducing transaction processing time by 35%
 - Architected and implemented CI/CD pipelines using Jenkins, Docker, and Kubernetes, improving deployment frequency by 60%
 - Engineered microservices architecture for a financial services client that enhanced system scalability and reduced infrastructure costs by 28%
