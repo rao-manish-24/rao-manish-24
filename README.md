@@ -1,5 +1,6 @@
 # Hi, I'm Manish Rao 👋
 Determined Backend & Devops Engineer, MS in Software Engineering, BE in Computer Science. 
+
 Software Engineer specializing in enterprise-scale systems architecture, AI solution implementation, and cloud-native application development with a track record of delivering high-impact technical solutions.
 
 ## Professional Focus
