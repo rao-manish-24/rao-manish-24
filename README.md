@@ -1,84 +1,111 @@
 # Hi, I'm Manish Rao 👋
-Determined Backend & Devops Engineer, MS in Software Engineering, BE in Computer Science. 
 
-Software Engineer specializing in enterprise-scale systems architecture, AI solution implementation, and cloud-native application development with a track record of delivering high-impact technical solutions.
+**Senior Software Engineer** with **5+ years** of experience building distributed backend systems, financial platforms, and AI/ML integrations.
 
-## Professional Focus
+Currently at **JP Morgan Chase & Co.** in Dallas, Texas — designing and implementing secure, high-throughput payment APIs and microservices for banking operations.
 
-🌱 **Currently Diving Deep Into:** 
-- Generative AI frameworks and prompt engineering
-- Large Language Models (LLMs) fine-tuning and deployment
-- Data Engineering pipelines for AI/ML workflows
-- Scalable Machine Learning infrastructure and MLOps
+---
 
-👀 **What Excites Me:** 
-- Implementing AI/ML solutions for tangible business challenges
-- Designing resilient distributed systems and microservices
-- Optimizing DevOps practices for continuous delivery excellence
-- Developing performance-optimized applications with measurable impact
+## What I'm Working On
 
-💡 **Looking to Collaborate On:** 
-- Enterprise-grade DevOps/MLOps implementations
-- Cloud-native architectures leveraging containerization and orchestration
-- Innovative applications of Deep Learning in production environments
-- Data Science and Data Engineering solutions that deliver business value
+- Building secure payment APIs handling high-volume concurrent requests using Java, Spring Boot, and Spring Security
+- Developing payment validation and fraud detection microservices with Kafka event streams
+- Partnering with data science teams on AI-powered engineering assistants using Generative AI and Hugging Face
+
+## What I'm Exploring
+
+- Generative AI frameworks, prompt engineering, and RAG workflows
+- LLM fine-tuning and deployment at scale
+- Event-driven architectures and distributed systems patterns
+- AI agent orchestration with LangChain, LangGraph, and smolagents
+
+---
 
 ## Professional Experience
 
-**EX-ACCENTURE, Software Engineering Developer 2, Associate Software Engineer (01/2021 - 07/2023)**
-- Led the development of a mission-critical payment processing system utilizing Java Spring Boot, reducing transaction processing time by 35%
-- Architected and implemented CI/CD pipelines using Jenkins, Docker, and Kubernetes, improving deployment frequency by 60%
-- Engineered microservices architecture for a financial services client that enhanced system scalability and reduced infrastructure costs by 28%
-- Spearheaded the adoption of test-driven development practices, resulting in a 40% reduction in production defects
+### JP Morgan Chase & Co. — Software Engineer
+**Dallas, Texas | Jan 2025 - Present**
+- Secure payment APIs (Java, Spring Boot, Spring Security) — ACH transfers, settlements, authorization workflows
+- OAuth2/JWT authentication across multiple financial microservices
+- PostgreSQL optimization — 35% improvement in reconciliation and transaction lookup performance
+- Redis caching — reduced transaction latency from 350ms to under 120ms
+- Docker + AWS EKS + Kubernetes autoscaling with Helm and Jenkins CI/CD
+- AI-powered engineering assistant using Hugging Face — reduced troubleshooting time by 25%
 
-## Academic Excellence
+### Accenture — Software Engineer
+**India | Jan 2021 - Jul 2023**
+- Backend services for digital banking — Java, Spring Boot, Hibernate, REST APIs
+- Reduced API latency from 5s to under 2s for high-volume banking operations
+- Event-driven microservices with Apache Kafka for payment workflows
+- React.js dashboards with TypeScript for real-time monitoring of payment processing and fraud alerts
+- AWS deployments (EC2, S3, RDS) with Docker and Terraform
+- Prometheus and Grafana monitoring, JUnit/Mockito testing
+- Mentored junior engineers through code reviews and knowledge-sharing sessions
 
-📚 **Graduate Studies @ Northeastern University (09/2023 - 04/2025)**
-- **CSYE7380 - Theory & Practical Application in Generative AI Modeling**
-  - Developed and fine-tuned transformer-based models for domain-specific(Finance) applications
-  
-- **DAMG7374 - Gen AI with Applications in Data Engineering**
-  - Implemented end-to-end data pipelines for training and serving generative models
-  
-- **CSYE7374 - Design Patterns in Java**
-  - Created enterprise applications leveraging architectural design patterns for optimized performance
-  
-- **CSYE6225 - Network Structures and Cloud Computing**
-  - Designed and deployed fault-tolerant infrastructure on GCP using Infrastructure as Code
-  
-- **INFO7255 - Advanced Big Data Indexing & Tools**
-  - Engineered search solutions utilizing Elasticsearch and graph databases for complex data structures
-  
-- **INFO6105 - Data Science Engineering Methods and Tools**
-  - Applied statistical learning techniques to solve real-world prediction problems
-  
-- **INFO6205 - Program Structures & Algorithms**
-  - Implemented optimized algorithms for computational efficiency in resource-constrained environments
-  
-- **CSYE6200 - Object Oriented Design In Java**
-  - Developed modular and extensible applications following SOLID principles
+### Tatvasoft — Software Engineer
+**India | Jul 2019 - Dec 2020**
+- Backend services using Node.js and Express.js for supply chain platform — 5,000+ monthly transactions
+- React.js frontend — reduced page load time by 20%
+- MySQL optimization — improved query performance by 25%
+- Agile workflows with Jira, Git-based releases
 
-## Technical Proficiencies
+---
 
-💻 **Programming Languages:** Java, Python, SQL, TypeScript, Go, VbScript, C#
+## Education
 
-🔧 **Technologies & Frameworks:** Spring Boot, Flask, FastAPI, Go-Fiber/Gin, React, TensorFlow, PyTorch, Apache Spark, Kafka, Snowflake, MLFlow, Databricks
+**Northeastern University** — MS in Software Engineering Systems (Sep 2023 - May 2025)
+- Coursework: Generative AI, Data Engineering with LLM, Cloud Computing, Design Patterns, Algorithms, Data Science
 
-☁️ **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, CircleCI, GitOps
+**NMAM Institute of Technology** — BE in Computer Science (Aug 2016 - Jul 2020)
+- Coursework: Machine Learning, Data Structures, DevOps, NLP, Big Data
 
-🛠️ **Data & Analytics:** PostgreSQL, MongoDB, Elasticsearch, Hadoop, Airflow, Tableau, PowerBI
+---
 
-## Connect With Me
+## Tech Stack
 
-📫 **Professional Contact:**
-- Email: rao.mani@northeastern.edu
-- LinkedIn: [raomanish9538](https://www.linkedin.com/in/raomanish9538/)
-- GitHub: [ManishRao](https://github.com/rao-manish-24)
+**Languages:** Java, Python, JavaScript, TypeScript, Go, SQL, C++, Scala
 
-😄 **Pronouns:** He/Him
+**Backend:** Spring Boot, Spring Security, Hibernate, Node.js, Express.js, FastAPI, Flask, GraphQL, REST APIs
 
-⚡ **Fun Facts:** 
-- Contribute to open-source ML model optimization frameworks in my spare time
-- Mentor aspiring software engineers with a focus on underrepresented groups in tech
-- Beyond coding, I develop AI-driven agentic strategies and solve complex puzzles—constantly exploring how AI can reshape the future of entertainment and human-computer interaction.
-- Play Football & Cricket, Like to watch Movies/TV Series/Anime.
+**Frontend:** React, Angular, Redux, Bootstrap, Tailwind CSS
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Kafka, Snowflake, Neo4j, Elasticsearch
+
+**Cloud & DevOps:** AWS (EKS, EC2, S3, RDS, ECR, ECS), GCP, Docker, Kubernetes, Terraform, Jenkins, Helm, GitHub Actions, GitLab CI, Nginx
+
+**Observability:** Prometheus, Grafana, ELK Stack, OpenTelemetry
+
+**AI/ML:** Hugging Face, LangChain, LlamaIndex, LangGraph, RAG, PyTorch, TensorFlow, Scikit-Learn
+
+**Testing:** JUnit, Mockito, OpenAPI/Swagger
+
+---
+
+## Certifications
+
+- Neo4j Certified Professional & Graph Data Science Certification
+- LangChain: Introduction to LangGraph, Deep Research with LangGraph, Agent Observability & Evaluations
+- DeepLearning.AI: AI Agents in LangGraph, Knowledge Graphs for RAG, Building AI Voice Agents, Evaluating AI Agents, Building Code Agents with smolagents
+- Accenture Celebrates Excellence (ACE) Award
+
+---
+
+## Featured Projects
+
+| Project | Stack |
+|---------|-------|
+| **CVE Guardian** — Vulnerability scanning with data engineering pipeline | Airflow, Kafka, Neo4j, OpenAI, Snowflake, LlamaIndex |
+| **Alfred Agent** — AI agent for party planning using smolagents | smolagents, Hugging Face, OpenTelemetry, Langfuse |
+| **Elastic Search Indexer** — Health insurance record search system | Flask, Elasticsearch, RabbitMQ, Redis, OAuth 2.0 |
+| **Sketch Generation with GANs** — cGAN for photo-realistic image generation | GANs, Deep Learning, CUDA, ResNet-50 |
+
+---
+
+## Connect
+
+- **Email:** rao.mani@northeastern.edu | manish.r@mycvscout.com
+- **LinkedIn:** [raomanish9538](https://www.linkedin.com/in/raomanish9538/)
+
+---
+
+*When in doubt, I let the metrics argue.*
