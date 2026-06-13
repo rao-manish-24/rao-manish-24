@@ -2,7 +2,6 @@
 
 **Senior Software Engineer** with **5+ years** of experience building distributed backend systems, financial platforms, and AI/ML integrations.
 
-Currently at **JP Morgan Chase & Co.** in Dallas, Texas — designing and implementing secure, high-throughput payment APIs and microservices for banking operations.
 
 ---
 
@@ -24,7 +23,6 @@ Currently at **JP Morgan Chase & Co.** in Dallas, Texas — designing and implem
 ## Professional Experience
 
 ### JP Morgan Chase & Co. — Software Engineer
-**Dallas, Texas | Jan 2025 - Present**
 - Secure payment APIs (Java, Spring Boot, Spring Security) — ACH transfers, settlements, authorization workflows
 - OAuth2/JWT authentication across multiple financial microservices
 - PostgreSQL optimization — 35% improvement in reconciliation and transaction lookup performance
