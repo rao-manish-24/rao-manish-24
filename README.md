@@ -22,13 +22,6 @@
 
 ## Professional Experience
 
-### JP Morgan Chase & Co. — Software Engineer
-- Secure payment APIs (Java, Spring Boot, Spring Security) — ACH transfers, settlements, authorization workflows
-- OAuth2/JWT authentication across multiple financial microservices
-- PostgreSQL optimization — 35% improvement in reconciliation and transaction lookup performance
-- Redis caching — reduced transaction latency from 350ms to under 120ms
-- Docker + AWS EKS + Kubernetes autoscaling with Helm and Jenkins CI/CD
-- AI-powered engineering assistant using Hugging Face — reduced troubleshooting time by 25%
 
 ### Accenture — Software Engineer
 **India | Jan 2021 - Jul 2023**
